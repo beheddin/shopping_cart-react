@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+
+/*33*/
+.navbar {
+  background-color: #e3f2fd;
+  /*display:flex;
+  justify-content: flex-start;*/
+}
+
+/*28 the element containing the counters*/
+.col-sm {
+  display:flex;
+  justify-content: flex-start;
+  flex-wrap: wrap; /*flex items will wrap onto multiple lines, from top to bottom.*/
+}
+
+/*3*/
+.counter-object {
+  transition: box-shadow .3s;
+  width: 192px;
+  height: 50px;
+  margin: 20px;
+  border-radius:10px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+/*3*/
+.counter-object:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
