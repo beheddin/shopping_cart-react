@@ -1,5 +1,7 @@
 # shopping_cart-react
 app description: a simple shopping cart app that runs on your web browser and that I made using ReactJS.
+it contains counters with an increment button, a decrement button, and a delete button.
+it also contains a navbar that shows the number of counters 
 
 here are the steps to make this React app works:
 1. I used VSCode (Visual Studio Code) as a code editor. so if you don't have it, go to this link and install it:
