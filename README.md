@@ -1,5 +1,6 @@
 # shopping_cart-react (EN)
-app description: a simple shopping cart app that runs on your web browser and that I made using ReactJS.
+app description:
+a simple shopping cart app that runs on your web browser and that I made using ReactJS.
 it contains counters with an increment button, a decrement button, and a delete button. 
 it also contains a reset button to reset all counters to zero and a navbar that shows the number of counters that have a strictly positive value.
 
@@ -40,7 +41,7 @@ npm i bootstrap@4.1.1           (install Bootstrap v4.1.1)
 npm install react-icons --save  (to use react-icons)
 
 finally:
-npm start   (to launch the development server)
+npm start (to launch the development server)
 
 5. in your newly created React project folder, replace the original "src" folder, with the "src" folder that you downloaded.
 
