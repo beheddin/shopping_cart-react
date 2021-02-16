@@ -53,5 +53,5 @@ have fun and don't forget to like!
 preview 1:
 ![shopping_cart-1](https://user-images.githubusercontent.com/72648203/108029876-8bba9700-702e-11eb-901e-5d94d2f8770f.png)
 
-preview2:
+preview 2:
 ![shopping_cart-2](https://user-images.githubusercontent.com/72648203/108029882-8cebc400-702e-11eb-8f1a-bb1c00b6b2b8.png)
